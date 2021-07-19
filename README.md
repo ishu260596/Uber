@@ -19,11 +19,6 @@ Go to the [Releases](https://drive.google.com/drive/folders/1hcN2e-W5lqCq98Wcd_W
 </br>
 </br>
 </br>
-## ScreenShots
-<img src="https://user-images.githubusercontent.com/55504024/126120713-5da02c47-3c67-4e6f-86f8-b9273bdede68.jpg"/>
-</br>
-</br>
-</br>
 ## Demo Video 
 You can watch the full demo on [link](https://drive.google.com/drive/folders/1hcN2e-W5lqCq98Wcd_Wv2nYzn_GRjC0-?usp=sharing)
 {"mode":"full","isActive":false}
