@@ -7,41 +7,23 @@ Uber is a taxi booking application a user can signup as a driver or as rider in 
 <img src="https://user-images.githubusercontent.com/55504024/126120713-5da02c47-3c67-4e6f-86f8-b9273bdede68.jpg"/>
 </p>
 ## Download
-Go to the [Releases](https://github.com/nero002/Book-Parking/releases) to download the latest APK.
+Go to the [Releases](https://drive.google.com/drive/folders/1hcN2e-W5lqCq98Wcd_Wv2nYzn_GRjC0-?usp=sharing) to download the latest APK.
 <img src="/screenshots/appworking.gif" align="right" width="32%"/>
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
+- Kotlin
 - [Firebase](https://firebase.google.com/) - for user authentication & realtime database for storing and retrieving data. 
-- [Hilt](https://dagger.dev/hilt/) for dependency injection.
-- JetPack
-  - Lifecycle - dispose of observing data when lifecycle state changes.
-  - ViewModel - UI related data holder, lifecycle aware.
-  - compose - Modern Android UI toolkit.
-- Architecture
-  - MVVM Architecture (View - ViewBinding - ViewModel - Model)
-  - Repository pattern
+- [Google Maps] for showimg movement of app or driver on the road.
 - [Glide](https://github.com/bumptech/glide) - loading images.
 - [Lottie](https://github.com/airbnb/lottie-android) - for animations.
-- [Folding cell](https://github.com/Ramotion/folding-cell) - expanding content cell with paper like animation.
 </br>
 </br>
 </br>
+## ScreenShots
+<img src="https://user-images.githubusercontent.com/55504024/126120713-5da02c47-3c67-4e6f-86f8-b9273bdede68.jpg"/>
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-## Architecture
-Book Parking is based on MVVM architecture and repository pattern.
-![architecture](/screenshots/architecture.png)
-## Getting Started
-1. [Add Firebase to your Android Project.](https://firebase.google.com/docs/android/setup)
-2. Copy the google-services.json file you just downloaded into the app/ or mobile/ directory of your Android Studio project.
-3. Select the Auth panel and then click the Sign In Method tab.
-4. Click Google and turn on the Enable switch, then click Save
-5. Import [this](/screenshots/book_parking_export.json) file into your firebase real time database.
 ## Demo Video 
-You can watch the full demo on [YouTube](https://youtu.be/xXWviLTXARg)
+You can watch the full demo on [link](https://drive.google.com/drive/folders/1hcN2e-W5lqCq98Wcd_Wv2nYzn_GRjC0-?usp=sharing)
 {"mode":"full","isActive":false}
