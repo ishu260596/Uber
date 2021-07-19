@@ -1,6 +1,6 @@
-<h1 align="center">Book Parking</h1>
+<h1 align="center">Uber App</h1>
 <p align="center">  
-Book Parking is a demo application based on MVVM architecture. The app allows users to booking parking slots, the app uses firebase for the backend.
+Uber is a taxi booking application a user can signup as a driver or as rider in driver or rider app respectively. The app allows users to booking taxi and move and see the directions on maps slots, the app uses firebase for the backend.
 </p>
 </br>
 <p align="center">
