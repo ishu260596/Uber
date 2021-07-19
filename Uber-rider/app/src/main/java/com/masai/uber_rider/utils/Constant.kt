@@ -1,0 +1,30 @@
+package com.masai.uber_rider.utils
+
+import android.graphics.Color
+
+const val KEY_LOGIN_WITH_OAUTH = "KEY_LOGIN_WITH_OAUTH"
+
+const val KEY_PASSENGER_LOGGED_IN = "KEY_PASSENGER_LOGGED_IN"
+const val KEY_PASSENGER_DISPLAY_NAME = "KEY_PASSENGER_DISPLAY_NAME"
+const val KEY_PASSENGER_GOOGLE_ID = "KEY_PASSENGER_GOOGLE_ID"
+const val KEY_PASSENGER_MOBILE_NUMBER = "KEY_PASSENGER_MOBILE_NUMBER"
+const val KEY_PASSENGER_USER_GOOGLE_GMAIL = "KEY_PASSENGER_USER_GOOGLE_GMAIL"
+const val KEY_PASSENGER_PHONE_LOGIN = "KEY_PASSENGER_PHONE_LOGIN"
+const val KEY_PASSENGER_PROFILE_URL = "KEY_PASSENGER_PROFILE_URL"
+
+// Map Options
+const val POLYLINE_COLOR = Color.RED
+const val POLYLINE_WIDTH = 8f
+const val MAP_ZOOM = 15f
+const val MAP_VIEW_BUNDLE_KEY = "MapViewBundleKey"
+
+//FireMessaging
+const val NOTIFICATION_TITLE = "title"
+const val NOTIFICATION_CONTENT = "body"
+const val KEY_TOKEN_REFERENCE = "Token"
+
+//
+const val START_ADDRESS = "StartAddress"
+const val END_ADDRESS = "EndAddress"
+
+

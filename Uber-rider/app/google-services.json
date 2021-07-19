@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "51580770258",
+    "firebase_url": "https://uber-46fe0-default-rtdb.firebaseio.com",
+    "project_id": "uber-46fe0",
+    "storage_bucket": "uber-46fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51580770258:android:2718790dc51cd919e3da0b",
+        "android_client_info": {
+          "package_name": "com.masai.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51580770258-2kb2tkg5elkbu26jrjom6bvspll9aopm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masai.uber",
+            "certificate_hash": "284a1c6d2663868f6357813f0d744a148ad29ebb"
+          }
+        },
+        {
+          "client_id": "51580770258-rdeds28s7k7og51bhqd6k6m2tblp3ut5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masai.uber",
+            "certificate_hash": "f86abbc2a4fdfe11b9a94de3418d0d4c9eb0c2f5"
+          }
+        },
+        {
+          "client_id": "51580770258-ik294mt3tio5euva4h3pshmcecfbfa9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-6WsUY6nKzqNdoNuEONYimBAIY8rkGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51580770258-ik294mt3tio5euva4h3pshmcecfbfa9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51580770258:android:dc0789a88762dc96e3da0b",
+        "android_client_info": {
+          "package_name": "com.masai.uber_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51580770258-tuckkigs45n6pug4to9ks86up0ktuu0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masai.uber_rider",
+            "certificate_hash": "f86abbc2a4fdfe11b9a94de3418d0d4c9eb0c2f5"
+          }
+        },
+        {
+          "client_id": "51580770258-ik294mt3tio5euva4h3pshmcecfbfa9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-6WsUY6nKzqNdoNuEONYimBAIY8rkGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51580770258-ik294mt3tio5euva4h3pshmcecfbfa9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

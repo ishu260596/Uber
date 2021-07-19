@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clipChildren="false"
+    android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+    android:background="@color/cred"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="@string/rover"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_32sdp" />
+    <club.cred.synth.views.SynthButton
+        android:id="@+id/btn_phone_sign_in"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:drawablePadding="@dimen/_10sdp"
+        android:gravity="center"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/sign_in_with_phone"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_26sdp"
+       app:layout_constraintBottom_toTopOf="@id/btn_google_sign_in"
+        app:neuButtonDrawable="@drawable/ic_baseline_phone_24"
+        app:neuButtonDrawablePitRadius="20dp"
+        app:neuButtonType="elevated_soft"
+        app:neuPlatformAppearance="@style/button_platform_appearance" />
+
+    <club.cred.synth.views.SynthButton
+        android:id="@+id/btn_google_sign_in"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:drawablePadding="@dimen/_10sdp"
+        android:gravity="center"
+        android:padding="@dimen/_10sdp"
+        android:text="@string/google"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_36sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:neuButtonDrawable="@drawable/ic_google"
+        app:neuButtonDrawablePitRadius="20dp"
+        app:neuButtonType="elevated_soft"
+        app:neuPlatformAppearance="@style/button_platform_appearance" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

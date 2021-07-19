@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/Driver_home" />
+
+        <item
+            android:id="@+id/nav_trips"
+            android:icon="@drawable/ic_baseline_directions_car_24"
+            android:title="@string/your_trips" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_baseline_help_outline_24"
+            android:title="@string/help" />
+
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/ic_baseline_account_balance_wallet_24"
+            android:title="@string/wallet" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Settings" />
+
+
+        <item
+            android:id="@+id/signOut"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="@string/sign_out" />
+
+    </group>
+</menu>
