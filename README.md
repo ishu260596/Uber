@@ -4,7 +4,7 @@ Uber is a taxi booking application a user can signup as a driver or as rider in 
 </p>
 </br>
 <p align="center">
-<img src="https://drive.google.com/file/d/1njmLMoPxBQU0J3PiEOd-2GCkBMt2XBpC/view?usp=sharing"/>
+<img src="https://user-images.githubusercontent.com/55504024/126120713-5da02c47-3c67-4e6f-86f8-b9273bdede68.jpg"/>
 </p>
 ## Download
 Go to the [Releases](https://github.com/nero002/Book-Parking/releases) to download the latest APK.
